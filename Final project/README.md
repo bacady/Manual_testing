@@ -19,43 +19,50 @@ The below Story was created in JIRA and describes the functional specifications 
 <h2>1.1 Test Planning</h2>
 The Test Plan is designed to describe all details of testing for the <strong>My Info - Personal Details</strong> module from the OrangeHRM application.
 
-The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan
+The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan.
 
-1.1.1 Roles assigned to the project and persons allocated
+<h3>1.1.1 Roles assigned to the project and persons allocated</h3>
+<ul>
 <li>Project manager - Iulian Niculita</li> 
 <li>Product owner - Iulian Petica</li> 
 <li>Software developer - Cristian Opariuc</li>
 <li>QA Engineer - Adrian-Cristinel Butnariuc</li>
+</ul>
 
-1.1.2 Entry criteria defined
+<h3>1.1.2 Entry criteria defined</h3>
 <ul>
-0functional specifications are defined</li>
+<li>functional specifications are defined</li>
 <li>roles needed for the project are allocated</li>
 <li>initial project risks were detected and mitigated</li>
-<ul>
+</ul>
 
-1.1.3 Exit criteria defined
-number of unresolved bugs is insignificant or they have low priority
-all tests have been executed
-all resolved bugs have been re-tested and approved by the QA team
-deadline was reached
-no detected major risk remained un-mitigated
-exploratory regression testing must be performed on the My Info module, which includes the Dependents section
-1.1.4 Test scope
-Tests in scope: All the feature of Dependents module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing
+<h3>1.1.3 Exit criteria defined</h3>
+<ul>
+<li>number of unresolved bugs is insignificant or they have low priority</li>
+<li>all tests have been executed</li>
+<li>all resolved bugs have been re-tested and approved by the QA team</li>
+<li>deadline was reached</li>
+<li>no detected major risk remained un-mitigated</li>
+<li>exploratory regression testing must be performed on the <strong>My Info module</strong>, which includes the <strong>Personal Details section</strong></li>
+</ul>
+
+<h3>1.1.4 Test scope</h3>
+Tests in scope: All the feature of <strong>My Info - Personal Details</strong> module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing.
 Tests not in scope: performance testing, integrations of the dependents module with other modules, compatibility testing with multiple browsers
-1.1.5 Risks detected
+
+<h3>1.1.5 Risks detected</h3>
 Project risks: lack of experience of the QA team, short deadline of Zephyr Squad trial, unavailability of test environment
 Product risks: validation constraints on the fields might be too restrictive to the end-user
-1.1.6 Evaluating entry criteria
+
+<h3>1.1.6 Evaluating entry criteria</h3>
 The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
 
-1.2 Test Monitoring and Control
+<h2>1.2 Test Monitoring and Control</h2>
 Variou periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken. The following status report was generated after 40% of the test cases were executed, on 1st of April 2022:
 
 image
 
-1.3 Test Analysis
+<h2>1.3 Test Analysis</h2>
 The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
 
 Enter data only for mandatory fields and check that the dependant is created/updated
