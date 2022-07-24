@@ -47,12 +47,15 @@ The plan identifies the items to be tested, the features to be tested, the types
 </ul>
 
 <h3>1.1.4 Test scope</h3>
-Tests in scope: All the feature of <strong>My Info - Personal Details</strong> module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing.
-Tests not in scope: performance testing, integrations of the dependents module with other modules, compatibility testing with multiple browsers
+<ul>
+<li><strong>Tests in scope</strong>: All the feature of <strong>My Info - Personal Details</strong> module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing.</li>
+<li><strong>Tests not in scope</strong>: performance testing, integrations of the dependents module with other modules, compatibility testing with multiple browsers.</li>
+</ul>
 
 <h3>1.1.5 Risks detected</h3>
-Project risks: lack of experience of the QA team, short deadline of Zephyr Squad trial, unavailability of test environment
-Product risks: validation constraints on the fields might be too restrictive to the end-user
+<ul>
+<li><strong>Project risks</strong>: lack of experience of the QA team, short deadline of Zephyr Squad trial, unavailability of test environment
+<li><strong>Product risks</strong>: validation constraints on the fields might be too restrictive to the end-user
 
 <h3>1.1.6 Evaluating entry criteria</h3>
 The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
