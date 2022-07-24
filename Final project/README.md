@@ -56,20 +56,44 @@ The plan identifies the items to be tested, the features to be tested, the types
 <ul>
 <li><strong>Project risks</strong>: lack of experience of the QA team, short deadline of Zephyr Squad trial, unavailability of test environment
 <li><strong>Product risks</strong>: validation constraints on the fields might be too restrictive to the end-user
+</ul>
 
 <h3>1.1.6 Evaluating entry criteria</h3>
 The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
 
 <h2>1.2 Test Monitoring and Control</h2>
-Variou periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken. The following status report was generated after 40% of the test cases were executed, on 1st of April 2022:
+Various periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken. The following status report was generated after 40% of the test cases were executed, on 1st of April 2022:
 
 image
 
 <h2>1.3 Test Analysis</h2>
-The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
+The testing process will be executed based on the above requirements for the <strong>My Info - Personal Details</strong> module. The following test conditions were found:
 
-Enter data only for mandatory fields and check that the dependant is created/updated
-Enter data for all available fields and check that the dependant is created/updated
+Check if new employee can be added 
+Check if added employee can be edited and deleted
+Check if multiple entries can be added/ deleted
+Check mandatory and optional fields
+Check max allowed characters for text fields
+For date fields verify end date cannot be earlier than start date
+Check Date format
+Check if future dates are allowed
+Check if new education can be added
+Check if added education can be edited and deleted
+Check if new skill can be added
+Check if added skill can be edited and deleted
+Check if new language can be added
+Check if added language can be edited and deleted
+Verify values for drop down fields
+Check if new license can be added
+Check if added license can be edited and deleted
+Check if attachments can be added
+Check if added attachments can be edited and deleted
+Verify if all type of attachments are allowed
+Check if attachments can be downloaded
+Verify the attachment does not exceed 1MB
+Check add/edit/delete actions via UI and via API.
+Enter data only for mandatory fields and check that the <strong>My Info - Personal Details</strong> is created/updated
+Enter data for all available fields and check that the <strong>My Info - Personal Details</strong> is created/updated
 Leave mandatory fields empty and check that the dependant cannot be created/updated
 View dependant details and check they are correct
 View all dependants in a list
