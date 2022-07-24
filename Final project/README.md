@@ -10,25 +10,30 @@ The final project will be split into 2 sections: Testing section and SQL section
 Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
 
 Functional specifications
-The below Story was created in JIRA and describes the functional specifications of the Dependants module, for which the final project is performed upon.
+The below Story was created in JIRA and describes the functional specifications of the <strong>My Info - Personal Details</strong> module, for which the final project is performed upon.
 
-image
+![Figura 1](https://user-images.githubusercontent.com/109169013/180651462-878814cf-bed5-4d60-9493-edc2289fdfd7.png)
 
-1 Testing section
-1.1 Test Planning
-The Test Plan is designed to describe all details of testing for the Dependants module from the OrangeHRM application.
+<h1>1 Testing section</h1>
+
+<h2>1.1 Test Planning</h2>
+The Test Plan is designed to describe all details of testing for the <strong>My Info - Personal Details</strong> module from the OrangeHRM application.
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan
 
 1.1.1 Roles assigned to the project and persons allocated
-Project manager - Andrei Popescu
-Product owner - Madalina Ionescu
-Software developer - Gabriela Tomescu
-QA Engineer - Iulia Albu
+<li>Project manager - Iulian Niculita</li> 
+<li>Product owner - Iulian Petica</li> 
+<li>Software developer - Cristian Opariuc</li>
+<li>QA Engineer - Adrian-Cristinel Butnariuc</li>
+
 1.1.2 Entry criteria defined
-functional specifications are defined
-roles needed for the project are allocated
-initial project risks were detected and mitigated
+<ul>
+0functional specifications are defined</li>
+<li>roles needed for the project are allocated</li>
+<li>initial project risks were detected and mitigated</li>
+<ul>
+
 1.1.3 Exit criteria defined
 number of unresolved bugs is insignificant or they have low priority
 all tests have been executed
