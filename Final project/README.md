@@ -98,7 +98,7 @@ Test cases:
 
 image
 
-The test cases with steps can be viewed here: Dependents_test_cases.pdf
+The test cases with steps can be viewed here: 
 
 For the Dependants API, the following checklist was generated: API_test_checklist.csv
 
