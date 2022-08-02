@@ -102,13 +102,14 @@ For the Dependants API, the following checklist was generated: API_test_checklis
 
 <h2>1.5 Test Implementation</h2>
 The following elements are needed to be ready before the test execution phase begins:
-
-<p>Testing environment is up and running: https://opensource-demo.orangehrmlive.com/</p>
-<p>Access to the testing environment is given: Username : Admin | Password : admin123</p>
-<p>Cycle summary was created</p>
-Test cases were added to the cycle summary
-Postman collection with the dependents API methods was created
-Authorization token was created for accessing the API
+<ul>
+<ui>Testing environment is up and running: https://opensource-demo.orangehrmlive.com/</ui>
+<ui>Access to the testing environment is given: Username : Admin | Password : admin123</ui>
+<ui>Cycle summary was created</ui>
+<ui>Test cases were added to the cycle summary</ui>
+<ui>Postman collection with the dependents API methods was created</ui>
+<ui>Authorization token was created for accessing the API</ui>
+<ul>
 1.6 Test Execution
 Test cases are executed on the created test Cycle summary: Dependents_cycle_summary_execution.pdf
 Bugs have been created based on the failed tests. The complete bug reports can be found here: Dependents_created_bugs.pdf
