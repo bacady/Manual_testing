@@ -62,42 +62,37 @@ The plan identifies the items to be tested, the features to be tested, the types
 The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
 
 <h2>1.2 Test Monitoring and Control</h2>
-Various periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken. The following status report was generated after 40% of the test cases were executed, on 1st of April 2022:
+It was done by generating periodic reports that reflect the current status of the tests:
 
-image
+![FPBAC Sprint 2](https://user-images.githubusercontent.com/109169013/182415211-6de039ea-f1ab-49a8-a2c9-219fd813f206.png)
+![Cycle Summary](https://user-images.githubusercontent.com/109169013/182416833-9df4502c-3285-4e09-93f3-fde67db7f305.png)
+
 
 <h2>1.3 Test Analysis</h2>
 The testing process will be executed based on the above requirements for the <strong>My Info - Personal Details</strong> module. The following test conditions were found:
+<ul>
+<li>Check if new employee can be added</li> 
+<li>Check if added employee can be edited and deleted</li>
+<li>Check if multiple entries can be added/ deleted</li>
+<li>Check mandatory and optional fields</li>
+<li>Check max allowed characters for text fields</li>
+<li>For date fields verify end date cannot be earlier than start date</li>
+<li>Check Date format</li>
+<li>Check if future dates are allowed</li>
 
-Check if new employee can be added 
-Check if added employee can be edited and deleted
-Check if multiple entries can be added/ deleted
-Check mandatory and optional fields
-Check max allowed characters for text fields
-For date fields verify end date cannot be earlier than start date
-Check Date format
-Check if future dates are allowed
-Check if new education can be added
-Check if added education can be edited and deleted
-Check if new skill can be added
-Check if added skill can be edited and deleted
-Check if new language can be added
-Check if added language can be edited and deleted
-Verify values for drop down fields
-Check if new license can be added
-Check if added license can be edited and deleted
-Check if attachments can be added
-Check if added attachments can be edited and deleted
-Verify if all type of attachments are allowed
-Check if attachments can be downloaded
-Verify the attachment does not exceed 1MB
-Check add/edit/delete actions via UI and via API.
-Enter data only for mandatory fields and check that the <strong>My Info - Personal Details</strong> is created/updated
-Enter data for all available fields and check that the <strong>My Info - Personal Details</strong> is created/updated
-Leave mandatory fields empty and check that the dependant cannot be created/updated
-View dependant details and check they are correct
-View all dependants in a list
-Check all validation constraints for the fields
+<li>Verify values for drop down fields
+
+<li>Check if attachments can be added
+<li>Check if added attachments can be edited and deleted
+<li>Verify if all type of attachments are allowed
+<li>Check if attachments can be downloaded
+<li>Verify the attachment does not exceed 1MB
+<li>Check add/edit/delete actions via UI and via API.
+<li>Enter data only for mandatory fields and check that the <strong>My Info - Personal Details</strong> is created/updated
+<li>Enter data for all available fields and check that the <strong>My Info - Personal Details</strong> is created/updated
+
+<li>Check all validation constraints for the fields
+
 1.4 Test Design
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are boundary value analysis, equivalence partitioning and use case testing.
 
