@@ -98,7 +98,7 @@ Test cases:
 
 image
 
-The test cases with steps can be viewed here: Personal_Details_Test_Cases.pdf
+The test cases with steps can be viewed here: [Personal Details Test Cases](https://github.com/bacady/Manual_testing/blob/main/Final%20project/Personal%20Details%20Test%20Cases.pdf)
 
 For the Dependants API, the following checklist was generated: API_test_checklist.csv
 
