@@ -79,7 +79,6 @@ The testing process will be executed based on the above requirements for the <st
 <li>For date fields verify end date cannot be earlier than start date</li>
 <li>Check Date format</li>
 <li>Check if future dates are allowed</li>
-
 <li>Verify values for drop down fields</li>
 <li>Check if attachments can be added</li>
 <li>Check if added attachments can be edited and deleted</li>
@@ -87,27 +86,26 @@ The testing process will be executed based on the above requirements for the <st
 <li>Check if attachments can be downloaded</li>
 <li>Verify the attachment does not exceed 1MB</li>
 <li>Check add/edit/delete actions via UI and via API.</li>
-
-
 <li>Check all validation constraints for the fields</li>
+</ul>
 
-1.4 Test Design
+<h2>1.4 Test Design</h2>
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are boundary value analysis, equivalence partitioning and use case testing.
 
 Test cases:
 
-image
+![Test Cases](https://user-images.githubusercontent.com/109169013/182442214-bf1721b3-7b25-48dd-9162-3b381fc499f5.png)
 
 The test cases with steps can be viewed here: [Personal_Details_Test_Cases.pdf](https://github.com/bacady/Manual_testing/blob/main/Final%20project/Personal_Details_Test_Cases.pdf)
 
 For the Dependants API, the following checklist was generated: API_test_checklist.csv
 
-1.5 Test Implementation
+<h2>1.5 Test Implementation</h2>
 The following elements are needed to be ready before the test execution phase begins:
 
-Testing environment is up and running: https://opensource-demo.orangehrmlive.com/
+Testing environment is up and running: https://opensource-demo.orangehrmlive.com/</li>
 Access to the testing environment is given: Username : Admin | Password : admin123
-Cycle summary was created
+Cycle summary was created</li>
 Test cases were added to the cycle summary
 Postman collection with the dependents API methods was created
 Authorization token was created for accessing the API
