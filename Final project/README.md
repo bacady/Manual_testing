@@ -80,18 +80,16 @@ The testing process will be executed based on the above requirements for the <st
 <li>Check Date format</li>
 <li>Check if future dates are allowed</li>
 
-<li>Verify values for drop down fields
+<li>Verify values for drop down fields</li>
+<li>Check if attachments can be added</li>
+<li>Check if added attachments can be edited and deleted</li>
+<li>Verify if all type of attachments are allowed</li>
+<li>Check if attachments can be downloaded</li>
+<li>Verify the attachment does not exceed 1MB</li>
+<li>Check add/edit/delete actions via UI and via API.</li>
 
-<li>Check if attachments can be added
-<li>Check if added attachments can be edited and deleted
-<li>Verify if all type of attachments are allowed
-<li>Check if attachments can be downloaded
-<li>Verify the attachment does not exceed 1MB
-<li>Check add/edit/delete actions via UI and via API.
-<li>Enter data only for mandatory fields and check that the <strong>My Info - Personal Details</strong> is created/updated
-<li>Enter data for all available fields and check that the <strong>My Info - Personal Details</strong> is created/updated
 
-<li>Check all validation constraints for the fields
+<li>Check all validation constraints for the fields</li>
 
 1.4 Test Design
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are boundary value analysis, equivalence partitioning and use case testing.
