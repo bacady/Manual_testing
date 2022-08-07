@@ -64,7 +64,8 @@ The entry criterias defined in the Test Planning phase have been achieved and th
 <h2>1.2 Test Monitoring and Control</h2>
 It was done by generating periodic reports that reflect the current status of the tests:
 
-![FPBAC Sprint 2](https://user-images.githubusercontent.com/109169013/182415211-6de039ea-f1ab-49a8-a2c9-219fd813f206.png)
+![Sprint 2](https://user-images.githubusercontent.com/109169013/183283522-3d4e596a-9751-4cab-81f5-0dfbaea616e8.png)
+
 ![Cycle Summary](https://user-images.githubusercontent.com/109169013/182416833-9df4502c-3285-4e09-93f3-fde67db7f305.png)
 
 
