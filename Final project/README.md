@@ -110,9 +110,9 @@ The following elements are needed to be ready before the test execution phase be
 <li>Test cases were added to the cycle summary</li>
 <li>Postman collection with the dependents API methods was created</li>
 <li>Authorization token was created for accessing the API</li>
-
+</ul>
   
-1.6 Test Execution
+<h2>1.6 Test Execution</h2>
 Test cases are executed on the created test Cycle summary: Dependents_cycle_summary_execution.pdf
 Bugs have been created based on the failed tests. The complete bug reports can be found here: Dependents_created_bugs.pdf
 Date format is not dd/mm/yyyy
@@ -122,7 +122,7 @@ Only 50 characters are allowed for "Name" field
 Relationship "parent" is missing
 API tests are executed based on the checklist. The collection used can be found here: JSON file with the collection of requests created for the Dependents API
 Full regression testing is needed after the bugs are fixed
-1.7 Test Completion
+<h2>1.7 Test Completion</h2>
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 The traceability matrix was generated and can be found here: Traceability_matrix.csv
 Test execution chart was generated, the final report shows that a number 5 tests have failed of a total of 23
