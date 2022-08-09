@@ -110,7 +110,7 @@ The following elements are needed to be ready before the test execution phase be
 <li>Test cases were added to the cycle summary</li>
 <li>Postman collection with the dependents API methods was created</li>
 <li>Authorization token was created for accessing the API</li>
-<ul>
+
   
 1.6 Test Execution
 Test cases are executed on the created test Cycle summary: Dependents_cycle_summary_execution.pdf
