@@ -1,0 +1,333 @@
+{
+	"id": "e1ee8bbd-51dd-44ec-95bf-a83b5fbd3f56",
+	"name": "Final Project  Butnariuc Adrian-Cristinel",
+	"timestamp": "2022-08-06T19:18:42.205Z",
+	"collection_id": "21351610-642ebdf4-3d85-43d7-a3aa-c464f7d3ae72",
+	"folder_id": 0,
+	"environment_id": "21351610-3315b555-c4bd-4ad2-94c4-c65171049d65",
+	"totalPass": 15,
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "82ff8bff-4c3a-4aaf-b459-9364e7b55633",
+			"name": "API Save Employee",
+			"url": "https://opensource-demo.orangehrmlive.com//api/v1/employee/786",
+			"time": 544,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Response should be Successfuly Saved": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response should be Successfuly Saved": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				544
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Response should be Successfuly Saved": true
+				}
+			]
+		},
+		{
+			"id": "90bef9b9-3124-4554-8467-1fd2adf53d53",
+			"name": "API Employee Detail",
+			"url": "https://opensource-demo.orangehrmlive.com//api/v1/employee/69",
+			"time": 216,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				216
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "b7500721-4525-4196-a90d-c0ddf9c7ee4d",
+			"name": "API Update Employee Detail",
+			"url": "https://opensource-demo.orangehrmlive.com//api/v1/employee/69",
+			"time": 223,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Response should be Successfully Updated": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response should be Successfully Updated": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				223
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Response should be Successfully Updated": true
+				}
+			]
+		},
+		{
+			"id": "585c0237-c8ed-498d-99cc-48f06451e272",
+			"name": "API Terminate Employment",
+			"url": "https://opensource-demo.orangehrmlive.com//api/v1/employee/69/action/terminate",
+			"time": 241,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Response should be Successfuly Terminated": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response should be Successfuly Terminated": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				241
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Response should be Successfuly Terminated": true
+				}
+			]
+		},
+		{
+			"id": "21742a74-9c51-4116-98ad-fc4cd658e2eb",
+			"name": "API Employee Search",
+			"url": "https://opensource-demo.orangehrmlive.com//api/v1/employee/search",
+			"time": 503,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				503
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "734516ef-9850-4083-8743-3a175923258a",
+			"name": "API Employee Custom Field",
+			"url": "https://opensource-demo.orangehrmlive.com//api/v1/employee/69/custom-field",
+			"time": 202,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				202
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "36d6c411-0d07-4fd8-aaea-579535b78e09",
+			"name": "API Save Employee Custom Field",
+			"url": "https://opensource-demo.orangehrmlive.com//api/v1/employee/69/custom-field",
+			"time": 178,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Response should be Successfuly Saved": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response should be Successfuly Saved": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				178
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Response should be Successfuly Saved": true
+				}
+			]
+		},
+		{
+			"id": "75df1e1e-0931-490b-a6e3-a8157f4bdbed",
+			"name": "API Update Employee Custom Field",
+			"url": "https://opensource-demo.orangehrmlive.com//api/v1/employee/69",
+			"time": 181,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Response should be Successfully Updated": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response should be Successfully Updated": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				181
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Response should be Successfully Updated": true
+				}
+			]
+		},
+		{
+			"id": "a1c48fce-2242-47dc-9fbe-8c02fb3447b0",
+			"name": "API Delete Employee Custom Field",
+			"url": "https://opensource-demo.orangehrmlive.com//api/v1/employee/69/custom-field",
+			"time": 196,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Response should be Successfully Deleted": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response should be Successfully Deleted": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				196
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Response should be Successfully Deleted": true
+				}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 2484,
+	"collection": {
+		"requests": [
+			{
+				"id": "82ff8bff-4c3a-4aaf-b459-9364e7b55633",
+				"method": "POST"
+			},
+			{
+				"id": "90bef9b9-3124-4554-8467-1fd2adf53d53",
+				"method": "GET"
+			},
+			{
+				"id": "b7500721-4525-4196-a90d-c0ddf9c7ee4d",
+				"method": "PUT"
+			},
+			{
+				"id": "585c0237-c8ed-498d-99cc-48f06451e272",
+				"method": "POST"
+			},
+			{
+				"id": "21742a74-9c51-4116-98ad-fc4cd658e2eb",
+				"method": "GET"
+			},
+			{
+				"id": "734516ef-9850-4083-8743-3a175923258a",
+				"method": "GET"
+			},
+			{
+				"id": "36d6c411-0d07-4fd8-aaea-579535b78e09",
+				"method": "POST"
+			},
+			{
+				"id": "75df1e1e-0931-490b-a6e3-a8157f4bdbed",
+				"method": "PUT"
+			},
+			{
+				"id": "a1c48fce-2242-47dc-9fbe-8c02fb3447b0",
+				"method": "DELETE"
+			}
+		]
+	}
+}
