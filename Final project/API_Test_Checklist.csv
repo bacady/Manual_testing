@@ -1,0 +1,18 @@
+Issue Type,Issue key,Issue id,Summary
+Test,FPBAC-189,10195,DEL - API Delete Employee Custom Field using a nonexistent field id
+Test,FPBAC-188,10194,DEL - API Delete Employee Custom Field using a nonexistent id
+Test,FPBAC-187,10193,DEL - API Delete Employee Custom Field
+Test,FPBAC-186,10192,PUT - API Update Employee Custom Field using a nonexistent id
+Test,FPBAC-185,10191,PUT - API Update Employee Custom Field
+Test,FPBAC-184,10190,POST - API Save Employee Custom Field using a nonexistent id
+Test,FPBAC-183,10189,POST - API Save Employee Custom Field
+Test,FPBAC-182,10188,GET - API Employee Custom Field
+Test,FPBAC-181,10187,GET - API Employee Search
+Test,FPBAC-180,10186,POST - API Terminate Employment using a nonexistent id
+Test,FPBAC-179,10185,POST - API Terminate Employment
+Test,FPBAC-178,10184,PUT - API Update Employee Detail using a nonexistent id
+Test,FPBAC-177,10183,PUT - API Update Employee Detail
+Test,FPBAC-176,10182,GET - API Employee Detail using a nonexistent id
+Test,FPBAC-175,10181,GET - API Employee Detail
+Test,FPBAC-174,10180,POST - API Save Employee with empty mandatory fields
+Test,FPBAC-173,10179,POST - API Save Employee
