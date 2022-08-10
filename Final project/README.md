@@ -114,13 +114,12 @@ The following elements are needed to be ready before the test execution phase be
   
 <h2>1.6 Test Execution</h2>
 Test cases are executed on the created test Cycle summary: [ZFJ_Cycles_08_10_2022](https://github.com/bacady/Manual_testing/blob/main/Final%20project/ZFJ_Cycles_08_10_2022.html) 
-![Run summary 2](https://user-images.githubusercontent.com/109169013/183961351-ce781d56-05fe-434d-96cf-efbb89c896c3.png)
-
 
 Bugs have been created based on the failed tests. The complete bug reports can be found here: [Bugs_Details_Report.pdf](https://github.com/bacady/Manual_testing/blob/main/Final%20project/Bugs_Details_Report.pdf)
 
 API tests are executed based on the checklist. The collection used can be found here: [Final Project  Butnariuc Adrian-Cristinel.postman_test_run.json](https://github.com/bacady/Manual_testing/blob/main/Final%20project/Final%20Project%20%20Butnariuc%20Adrian-Cristinel.postman_collection.json) and [Final Project  Butnariuc Adrian-Cristinel.postman_test_run.json](https://github.com/bacady/Manual_testing/blob/main/Final%20project/Final%20Project%20%20Butnariuc%20Adrian-Cristinel.postman_test_run.json)
 ![Run summary](https://user-images.githubusercontent.com/109169013/183960980-3144a5ca-0059-483a-9d7d-796a4f093d6f.png)
+![Run summary 2](https://user-images.githubusercontent.com/109169013/183961897-3e68f09a-c8ca-49e4-8f20-3d5f0b2a6a55.png)
 
 ![Newman_Run_Dashboard](https://user-images.githubusercontent.com/109169013/183946612-685316e2-0371-4bba-9d7c-d7d2aa7d4ad4.png)
 ![Newman_Run_Dashboard 2](https://user-images.githubusercontent.com/109169013/183959333-6e22566d-706f-4b99-b674-4a8aa83b18e7.png)
