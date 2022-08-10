@@ -129,7 +129,8 @@ A number of 23 test cases were planned for execution and all of them were execut
 A number of 5 total bugs were found, from which the priority is: 1 is high, 4 are medium and 1 is low
 image
 
-2 SQL section
+<h1>2 SQL section</h1>
+
 Created a database named 'personaldetails' and a table named 'dependents' with all the columns needed to save data per specifications.
 
 ![Diagrama SQL](https://user-images.githubusercontent.com/109169013/183947511-4f3d408e-d9b8-47c7-9266-14cd3a28b81d.png)
