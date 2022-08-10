@@ -95,7 +95,7 @@ Functional test cases were created in Zephyr Squad. Based on the analysis of the
 
 Test cases:
 
-![Test Cases](https://user-images.githubusercontent.com/109169013/182442214-bf1721b3-7b25-48dd-9162-3b381fc499f5.png)
+![Test Cases](https://user-images.githubusercontent.com/109169013/183852777-14a1cb4d-d183-4b1e-9d24-e4ca8282f675.png)
 
 The test cases with steps can be viewed here: [Personal_Details_Test_Cases.pdf](https://github.com/bacady/Manual_testing/blob/main/Final%20project/Personal_Details_Test_Cases.pdf)
 
