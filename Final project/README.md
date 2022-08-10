@@ -134,4 +134,4 @@ Created a database named 'personaldetails' and a table named 'dependents' with a
 
 ![Diagrama SQL](https://user-images.githubusercontent.com/109169013/183947511-4f3d408e-d9b8-47c7-9266-14cd3a28b81d.png)
 
-Performed different queries inside the sql file: dependents.sql
+Performed different queries inside the sql file: [Personal Details.sql](https://github.com/bacady/Manual_testing/blob/main/Final%20project/Personal%20Details.sql)
