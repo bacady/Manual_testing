@@ -114,6 +114,8 @@ The following elements are needed to be ready before the test execution phase be
   
 <h2>1.6 Test Execution</h2>
 Test cases are executed on the created test Cycle summary: [ZFJ_Cycles_08_10_2022](https://github.com/bacady/Manual_testing/blob/main/Final%20project/ZFJ_Cycles_08_10_2022.html) 
+![Run summary 2](https://user-images.githubusercontent.com/109169013/183961351-ce781d56-05fe-434d-96cf-efbb89c896c3.png)
+
 
 Bugs have been created based on the failed tests. The complete bug reports can be found here: [Bugs_Details_Report.pdf](https://github.com/bacady/Manual_testing/blob/main/Final%20project/Bugs_Details_Report.pdf)
 
