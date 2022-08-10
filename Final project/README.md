@@ -128,7 +128,8 @@ API tests are executed based on the checklist. The collection used can be found 
 Full regression testing is needed after the bugs are fixed
 <h2>1.7 Test Completion</h2>
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
-The traceability matrix was generated and can be found here: Traceability_matrix.csv
+
+The traceability matrix was generated and can be found here: [Traceability Matrix.xlsx](https://github.com/bacady/Manual_testing/blob/main/Final%20project/Traceability%20Matrix.xlsx)
 Test execution chart was generated, the final report shows that a number 5 tests have failed of a total of 23
 A number of 23 test cases were planned for execution and all of them were executed
 A number of 5 total bugs were found, from which the priority is: 1 is high, 4 are medium and 1 is low
