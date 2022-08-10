@@ -64,9 +64,9 @@ The entry criterias defined in the Test Planning phase have been achieved and th
 <h2>1.2 Test Monitoring and Control</h2>
 It was done by generating periodic reports that reflect the current status of the tests:
 
-![Sprint 2](https://user-images.githubusercontent.com/109169013/183283522-3d4e596a-9751-4cab-81f5-0dfbaea616e8.png)
+![image](https://user-images.githubusercontent.com/109169013/183851417-5c5fe6a3-6357-467e-bf0d-9256698dd579.png)
 
-![Cycle Summary](https://user-images.githubusercontent.com/109169013/182416833-9df4502c-3285-4e09-93f3-fde67db7f305.png)
+![Cycle Summary](https://user-images.githubusercontent.com/109169013/183852123-66ba56f4-ef5e-4023-ac49-66c35a36d7c8.png)
 
 
 <h2>1.3 Test Analysis</h2>
