@@ -117,7 +117,7 @@ Test cases are executed on the created test Cycle summary: [ZFJ_Cycles_08_10_202
 
 Bugs have been created based on the failed tests. The complete bug reports can be found here: [Bugs_Details_Report.pdf](https://github.com/bacady/Manual_testing/blob/main/Final%20project/Bugs_Details_Report.pdf)
 
-API tests are executed based on the checklist. The collection used can be found here: [Final Project  Butnariuc Adrian-Cristinel.postman_test_run.json](https://github.com/bacady/Manual_testing/blob/main/Final%20project/Final%20Project%20%20Butnariuc%20Adrian-Cristinel.postman_collection.json)
+API tests are executed based on the checklist. The collection used can be found here: [Final Project  Butnariuc Adrian-Cristinel.postman_test_run.json](https://github.com/bacady/Manual_testing/blob/main/Final%20project/Final%20Project%20%20Butnariuc%20Adrian-Cristinel.postman_collection.json) and [Final Project  Butnariuc Adrian-Cristinel.postman_test_run.json](https://github.com/bacady/Manual_testing/blob/main/Final%20project/Final%20Project%20%20Butnariuc%20Adrian-Cristinel.postman_test_run.json)
 Full regression testing is needed after the bugs are fixed
 <h2>1.7 Test Completion</h2>
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
