@@ -99,7 +99,7 @@ Test cases:
 
 The test cases with steps can be viewed here: [Test_Cases_With_Steps](https://github.com/bacady/Manual_testing/blob/main/Final%20project/Test_Cases_With_Steps.xlsx)  
 
-For the Dependants API, the following checklist was generated: API_test_checklist.csv
+For the Dependants API, the following checklist was generated: API_Test_Checklist (https://github.com/bacady/Manual_testing/blob/main/Final%20project/API_Test_Checklist.csv)
 
 <h2>1.5 Test Implementation</h2>
 The following elements are needed to be ready before the test execution phase begins:
