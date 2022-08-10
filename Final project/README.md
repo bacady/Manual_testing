@@ -113,7 +113,9 @@ The following elements are needed to be ready before the test execution phase be
 </ul>
   
 <h2>1.6 Test Execution</h2>
-Test cases are executed on the created test Cycle summary: [ZFJ-Cycles-08-10-2022.html](https://github.com/bacady/Manual_testing/blob/main/Final%20project/ZFJ-Cycles-08-10-2022.html) 
+Test cases are executed on the created test Cycle summary: [ZFJ-Cycles-08-10-2022.html]<https://github.com/bacady/Manual_testing/blob/main/Final%20project/ZFJ-Cycles-08-10-2022.html> 
+
+
 
 Bugs have been created based on the failed tests. The complete bug reports can be found here: Dependents_created_bugs.pdf
 Date format is not dd/mm/yyyy
