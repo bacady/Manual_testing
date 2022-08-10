@@ -116,11 +116,7 @@ The following elements are needed to be ready before the test execution phase be
 Test cases are executed on the created test Cycle summary: [ZFJ_Cycles_08_10_2022](https://github.com/bacady/Manual_testing/blob/main/Final%20project/ZFJ_Cycles_08_10_2022.html) 
 
 Bugs have been created based on the failed tests. The complete bug reports can be found here: [Bugs_Details_Report.pdf](https://github.com/bacady/Manual_testing/blob/main/Final%20project/Bugs_Details_Report.pdf)
-Date format is not dd/mm/yyyy
-Future "Date of Birth" can be selected from calendar
-Only 50 characters are allowed for "Please Specify" field
-Only 50 characters are allowed for "Name" field
-Relationship "parent" is missing
+
 API tests are executed based on the checklist. The collection used can be found here: JSON file with the collection of requests created for the Dependents API
 Full regression testing is needed after the bugs are fixed
 <h2>1.7 Test Completion</h2>
@@ -132,4 +128,4 @@ A number of 5 total bugs were found, from which the priority is: 1 is high, 4 ar
 image
 
 2 SQL section
-Created a database named 'orangehrm' and a table named 'dependents' with all the columns needed to save data per specifications. Performed different queries inside the sql file: dependents.sql
+Created a database named 'personaldetails' and a table named 'dependents' with all the columns needed to save data per specifications. Performed different queries inside the sql file: dependents.sql
