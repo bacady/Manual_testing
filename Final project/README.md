@@ -11,7 +11,7 @@ Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
 
 <h1>Functional specifications</h1>
 
-The below Story (FPBAC_2_My_Info_Personal_Details_section)[https://github.com/bacady/Manual_testing/blob/main/Final%20project/FPBAC_2_My_Info_Personal_Details_section.pdf]
+The below Story [FPBAC_2_My_Info_Personal_Details_section](https://github.com/bacady/Manual_testing/blob/main/Final%20project/FPBAC_2_My_Info_Personal_Details_section.pdf)
 was created in JIRA and describes the functional specifications of the <strong>My Info - Personal Details</strong> module, for which the final project is performed upon.
 
 ![Figura 1](https://user-images.githubusercontent.com/109169013/180651462-878814cf-bed5-4d60-9493-edc2289fdfd7.png)
