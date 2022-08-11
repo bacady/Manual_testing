@@ -10,7 +10,7 @@ The final project will be split into 2 sections: Testing section and SQL section
 Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
 
 Functional specifications
-The below Story (#FPBAC-2 My Info - Personal Details section)[]
+The below Story (#FPBAC_2 My_Info_Personal_Details_section)[https://github.com/bacady/Manual_testing/blob/main/Final%20project/%5B%23FPBAC-2%5D%20My%20Info%20-%20Personal%20Details%20section.pdf]
 was created in JIRA and describes the functional specifications of the <strong>My Info - Personal Details</strong> module, for which the final project is performed upon.
 
 ![Figura 1](https://user-images.githubusercontent.com/109169013/180651462-878814cf-bed5-4d60-9493-edc2289fdfd7.png)
