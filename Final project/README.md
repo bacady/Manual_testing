@@ -133,15 +133,19 @@ The following elements are needed to be ready before the test execution phase be
 </ul>
 
 <h2>1.7 Test Completion</h2>
-As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
+<li>As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team</li>
 
-The traceability matrix was generated and can be found here: [Traceability Matrix.xlsx](https://github.com/bacady/Manual_testing/blob/main/Final%20project/Traceability%20Matrix.xlsx)
+<li>The traceability matrix was generated and can be found here: [Traceability Matrix.xlsx](https://github.com/bacady/Manual_testing/blob/main/Final%20project/Traceability%20Matrix.xlsx)</li>
+  
 ![Traceability Matrix picture](https://user-images.githubusercontent.com/109169013/183964534-07ae781e-343c-4d70-8a92-49dff8851303.png)
 
-Test execution chart was generated, the final report shows that a number 5 tests have failed of a total of 23
+<li>Test execution chart was generated, the final report shows that a number 5 tests have failed of a total of 23</li>
 A number of 23 test cases were planned for execution and all of them were executed
 A number of 5 total bugs were found, from which the priority is: 1 is high, 4 are medium and 1 is low
-image
+
+![Test Metrix](https://user-images.githubusercontent.com/109169013/184294338-1ffdd8c7-fc60-4c2f-8d19-3c1dd220aac5.png)
+
+![Test Summary](https://user-images.githubusercontent.com/109169013/184294027-c22e0a38-f0ad-4b83-943e-a8644a507bff.png)
 
 <h1>2 SQL section</h1>
 
