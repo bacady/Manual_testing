@@ -139,9 +139,9 @@ The following elements are needed to be ready before the test execution phase be
   
 ![Traceability Matrix picture](https://user-images.githubusercontent.com/109169013/183964534-07ae781e-343c-4d70-8a92-49dff8851303.png)
 
-<li>Test execution chart was generated, the final report shows that a number 5 tests have failed of a total of 23</li>
-A number of 23 test cases were planned for execution and all of them were executed
-A number of 5 total bugs were found, from which the priority is: 1 is high, 4 are medium and 1 is low
+<li>Test execution chart was generated, the final report shows that a number 4 tests have failed of a total of 145</li>
+<li>A number of 145 test cases were planned for execution and all of them were executed</li>
+
 
 ![Test Metrix](https://user-images.githubusercontent.com/109169013/184294338-1ffdd8c7-fc60-4c2f-8d19-3c1dd220aac5.png)
 
@@ -149,8 +149,8 @@ A number of 5 total bugs were found, from which the priority is: 1 is high, 4 ar
 
 <h1>2 SQL section</h1>
 
-Created a database named 'personaldetails' and a table named 'dependents' with all the columns needed to save data per specifications.
+<li>Created a database named 'personaldetails'.</li>
 
 ![Diagrama SQL](https://user-images.githubusercontent.com/109169013/183947511-4f3d408e-d9b8-47c7-9266-14cd3a28b81d.png)
 
-Performed different queries inside the sql file: [Personal Details.sql](https://github.com/bacady/Manual_testing/blob/main/Final%20project/Personal%20Details.sql)
+<li>Performed different queries inside the sql file: [Personal Details.sql](https://github.com/bacady/Manual_testing/blob/main/Final%20project/Personal%20Details.sql)</li>
