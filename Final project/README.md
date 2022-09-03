@@ -122,7 +122,7 @@ The following elements are needed to be ready before the test execution phase be
 <ul>
 <li>Test cases are executed on the created test Cycle summary: [ZFJ_Cycles](https://github.com/bacady/Manual_testing/blob/main/Final%20project/ZFJ_Cycles_08_10_2022.html)</li> 
 
-<li>Bugs have been created based on the failed tests. The complete bug reports can be found here: [Bugs_Details_Report.doc](https://github.com/bacady/Manual_testing/blob/main/Final%20project/Bugs_Details_Report.doc)</li>
+<li>Bugs have been created based on the failed tests. The complete bug reports can be found here: [Bugs_Details_Report.pdf](https://github.com/bacady/Manual_testing/blob/main/Final%20project/Bugs_Details_Report.pdf)</li>
 
 <li>API tests are executed based on the checklist. The collection used can be found here: [postman_test_run.json](https://github.com/bacady/Manual_testing/blob/main/Final%20project/Final%20Project%20%20Butnariuc%20Adrian-Cristinel.postman_collection.json) and [postman_test_run.json](https://github.com/bacady/Manual_testing/blob/main/Final%20project/Final%20Project%20%20Butnariuc%20Adrian-Cristinel.postman_test_run.json)
   
