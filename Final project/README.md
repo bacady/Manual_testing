@@ -114,7 +114,7 @@ The following elements are needed to be ready before the test execution phase be
 <li>Access to the testing environment is given: Username : Admin | Password : admin123</li>
 <li>Cycle summary was created</li>
 <li>Test cases were added to the cycle summary</li>
-<li>Postman collection with the dependents API methods was created</li>
+<li>Postman collection with the <strong>My Info - Personal Details</strong> module API methods was created</li>
 <li>Authorization token was created for accessing the API</li>
 </ul>
   
