@@ -45,7 +45,6 @@ The plan identifies the items to be tested, the features to be tested, the types
 <li>all resolved bugs have been re-tested and approved by the QA team</li>
 <li>deadline was reached</li>
 <li>no detected major risk remained un-mitigated</li>
-<li>exploratory regression testing must be performed on the <strong>My Info module</strong>, which includes the <strong>Personal Details section</strong></li>
 </ul>
 
 <h3>1.1.4 Test scope</h3>
