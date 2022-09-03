@@ -65,6 +65,11 @@ The entry criterias defined in the Test Planning phase have been achieved and th
 <h2>1.2 Test Monitoring and Control</h2>
 It was done by generating periodic reports that reflect the current status of the tests:
 
+![Test execution](https://user-images.githubusercontent.com/109169013/188260625-c08fb5b6-d394-44c7-bba6-c7cfea254526.png)
+
+![Test Metrix](https://user-images.githubusercontent.com/109169013/188260637-7d0cecea-560e-4a90-934f-33058b679258.png)
+
+
 ![image](https://user-images.githubusercontent.com/109169013/183851417-5c5fe6a3-6357-467e-bf0d-9256698dd579.png)
 
 ![Cycle Summary](https://user-images.githubusercontent.com/109169013/183852123-66ba56f4-ef5e-4023-ac49-66c35a36d7c8.png)
