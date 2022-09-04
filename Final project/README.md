@@ -120,11 +120,11 @@ The following elements are needed to be ready before the test execution phase be
   
 <h2>1.6 Test Execution</h2>
 <ul>
-<li>Test cases are executed on the created test Cycle summary: <ahref="https://github.com/bacady/Manual_testing/blob/main/Final%20project/ZFJ_Cycles_08_10_2022.html">ZFJ_Cycles</a></li> 
+<li>Test cases are executed on the created test Cycle summary: <a href="https://github.com/bacady/Manual_testing/blob/main/Final%20project/ZFJ_Cycles_08_10_2022.html">ZFJ_Cycles</a></li> 
 
 <li>Bugs have been created based on the failed tests. The complete bug reports can be found here: <a href="https://github.com/bacady/Manual_testing/blob/main/Final%20project/Bugs_Details_Report.pdf">Bugs_Details_Report</a></li>
 
-<li>API tests are executed based on the checklist. The collection used can be found here: <ahref="https://github.com/bacady/Manual_testing/blob/main/Final%20project/Final%20Project%20%20Butnariuc%20Adrian-Cristinel.postman_collection.json">postman_test_run.json</a> and [postman_test_run.json](https://github.com/bacady/Manual_testing/blob/main/Final%20project/Final%20Project%20%20Butnariuc%20Adrian-Cristinel.postman_test_run.json)
+<li>API tests are executed based on the checklist. The collection used can be found here: <a href="https://github.com/bacady/Manual_testing/blob/main/Final%20project/Final%20Project%20%20Butnariuc%20Adrian-Cristinel.postman_collection.json">postman_test_run.json</a> and <a href="https://github.com/bacady/Manual_testing/blob/main/Final%20project/Final%20Project%20%20Butnariuc%20Adrian-Cristinel.postman_test_run.json">postman_test_run.json</a>
   
 ![Run summary](https://user-images.githubusercontent.com/109169013/183960980-3144a5ca-0059-483a-9d7d-796a4f093d6f.png)
 ![Run summary 2](https://user-images.githubusercontent.com/109169013/183961897-3e68f09a-c8ca-49e4-8f20-3d5f0b2a6a55.png)
