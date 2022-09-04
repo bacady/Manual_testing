@@ -139,7 +139,7 @@ The following elements are needed to be ready before the test execution phase be
 <h2>1.7 Test Completion</h2>
 <li>As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team</li>
 
-<li>The traceability matrix was generated and can be found here: [Traceability Matrix.xlsx](https://github.com/bacady/Manual_testing/blob/main/Final%20project/Traceability%20Matrix.xlsx)</li>
+<li>The traceability matrix was generated and can be found here: <a href="https://github.com/bacady/Manual_testing/blob/main/Final%20project/Traceability%20Matrix.xlsx">Traceability Matrix.xlsx</a></li>
   
 ![Traceability Matrix picture](https://user-images.githubusercontent.com/109169013/183964534-07ae781e-343c-4d70-8a92-49dff8851303.png)
 
@@ -157,4 +157,4 @@ The following elements are needed to be ready before the test execution phase be
 
 ![Diagrama SQL](https://user-images.githubusercontent.com/109169013/183947511-4f3d408e-d9b8-47c7-9266-14cd3a28b81d.png)
 
-<li>Performed different queries inside the sql file: [Personal Details.sql](https://github.com/bacady/Manual_testing/blob/main/Final%20project/Personal%20Details.sql)</li>
+<li>Performed different queries inside the sql file: <a href="https://github.com/bacady/Manual_testing/blob/main/Final%20project/Personal%20Details.sql">Personal Details.sql</a></li>
