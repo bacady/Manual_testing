@@ -50,7 +50,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 <h3>1.1.4 Test scope</h3>
 <ul>
 <li><strong>Tests in scope</strong>: All the features of <strong>My Info - Personal Details</strong> module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing.</li>
-<li><strong>Tests not in scope</strong>: performance testing, integrations of the dependents module with other modules, compatibility testing with multiple browsers.</li>
+<li><strong>Tests not in scope</strong>: performance testing, integrations of the <strong>My Info - Personal Details</strong> module with other modules, compatibility testing with multiple browsers.</li>
 </ul>
 
 <h3>1.1.5 Risks detected</h3>
